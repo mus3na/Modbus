@@ -349,7 +349,7 @@ Partial Class Form1
         Label18.Name = "Label18"
         Label18.Size = New Size(53, 25)
         Label18.TabIndex = 0
-        Label18.Text = "Tyoe:"
+        Label18.Text = "Type:"
         ' 
         ' ComboBox6
         ' 
