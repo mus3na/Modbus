@@ -39,7 +39,6 @@ This POC is intended primarily for educational purposes, aiming to provide stude
 2.  **Reading Data:**
    - Choose between holding registers or input registers
    - Click the "Read" button to fetch the data from the device
- 
- 
- 
-![image](https://github.com/user-attachments/assets/75634f24-9431-4dfe-9aa6-33857c9a9949)
+-
+-
+![image](https://github.com/user-attachments/assets/8cc64e94-1653-4bc6-afc6-01ce0cfdcd91)
